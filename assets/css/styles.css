@@ -1,0 +1,25 @@
+.bg-white {
+  background-color: white;
+}
+
+.dark-bg-black {
+  background-color: black;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-black {
+  color: black;
+}
+
+.my-20 {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+#results {
+    color: green;
+    background-color: wheat;
+}
